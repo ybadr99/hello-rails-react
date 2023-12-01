@@ -1,0 +1,2 @@
+class RandomMessage < ApplicationRecord
+end
